@@ -4,6 +4,8 @@
 
 A PWA-enabled React drum machine that combines Web Audio API sound synthesis with haptic feedback via the `web-haptics` library. Designed as a demo for showcasing haptic capabilities on mobile web, particularly on iPhone/iOS Safari.
 
+**Live Demo:** [haptics-demo.pages.dev](https://haptics-demo.pages.dev/) | **Deployed on:** Cloudflare Pages
+
 ## Architecture
 
 ```mermaid

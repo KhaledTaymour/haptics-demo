@@ -1,5 +1,7 @@
 # Haptic Drum Pad
 
+> **Live Demo: [haptics-demo.pages.dev](https://haptics-demo.pages.dev/)**
+
 A PWA drum machine with haptic feedback for the mobile web. Built as a fun demo for the FE team weekly meeting.
 
 Tap pads to trigger synthesized drum sounds + haptic vibrations. Play pre-made beat loops or record your own.
@@ -11,7 +13,7 @@ pnpm install
 pnpm dev        # Starts dev server with --host (accessible from mobile)
 ```
 
-Open `http://<your-ip>:5173` on your iPhone and other smart phones to test haptics.
+Open `http://<your-ip>:5173` on your iPhone and other smart phones to test haptics. Or just visit the [live demo](https://haptics-demo.pages.dev/).
 
 ## Features
 
